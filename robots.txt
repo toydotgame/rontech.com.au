@@ -1,0 +1,412 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="keywords" content="Web Development, Online Marketing, Web Design, SEO, Web Developer, Website Design, Website Services, Website Developers, Search Engine Optimisation, Web Designer, Web Development Company, SEM, SEO Company, Website Designers, Web Services, Internet Marketing, Web Solutions, Web Development Services, SEO Services, Web Design Company, Web Marketing, Search Engine Marketing, Web Design Services" />
+<meta http-equiv="description" content="Australia's best Web Design, Web Development, Online Marketing &amp; SEO Company. Professional Web Designer &amp; Web Developer for Search Engine Optimisation." />
+<meta name="verify-v1" content="rJtG+dVKV2F+MphRh4FotmT/zE/ANlwbT4I8KKxsIG4=" />
+<title>Web Design, Online Marketing, Website Developer</title>
+<link href="http://www.exa.com.au/style/master.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="http://www.exa.com.au/style/jquery.fancybox.css" type="text/css" media="screen" />
+</head>
+<body >
+<div id="main">
+  <!-- h1 part *************** -->
+  <div id="header">
+    <div id="header_h1">
+      <h1 >Web Developer, Internet Marketing, Web Designer, Search Engine Optimisation </h1>
+    </div>
+    <div id="form_search" align="right">
+      <form id="exasearch" name="exasearch" method="get"  action="http://www.exa.com.au/exasearch2/search.php">
+        <span class="site_search">Site Search&nbsp;</span>
+        <input name="s" class="search_box" type="text" size="10"  value="" align="right"/>
+        <input name="submit" type="submit" class="search_go_btn" value=""/>
+      </form>
+    </div>
+  </div>
+  <!--end h1 part ************** -->
+  <!-- spacer image part *************** -->
+  <div><img src="http://www.exa.com.au/images/spacer.gif" alt="" height="10" width="1" /><br/> </div>
+  <!-- end spacer image part *************** -->
+  <!-- home flash*************** -->
+    <div  id="home_flash"></div>
+  <!-- end home flash*************** -->
+  <div id="logo_scroller" class="align_center"></div>
+    <!-- ********************************************************************************************************************* -->
+  <div align="center" id="home_c2a_panel">
+    <div class="c2a_panel">
+  <div class="float_txt c2a_div">
+  <div class="c2a_panel_txt float_txt paddg_c2a_seo"><img class="float_txt seo_img" src="http://www.exa.com.au/images/home_page/seo_strategy_img.jpg" alt="SEO Strategy" title="SEO Strategy" /><a class="float_txt c2a_panel_txt" href="http://www.exa.com.au/folio/seo.html" title="SEO Results" onclick="pageTracker._trackEvent('HTML', 'onClick', 'SEO_Strategy');">SEO Results</a></div>
+    <div align="left"><span class="seo_text">Exa’s Web Magnet delivers outstanding SEO Results. See samples of the results our clients get from Web Magnet.</span></div>
+    <a class="seo_more_link" href="http://www.exa.com.au/folio/seo.html"  title="Read more on SEO Results" onclick="pageTracker._trackEvent('HTML', 'onClick', 'SEO_Strategy');">more&nbsp;&gt;&gt;</a>
+  </div>
+    <div class="float_txt c2a_div">
+    <p class="paddg_c2a_cust_sol"><img src="http://www.exa.com.au/images/home_page/customised_solutions_img.jpg" class="float_txt seo_img" alt="Customised Solutions" title="Customised Solutions" /><a class="float_txt c2a_panel_txt " href="http://www.exa.com.au/products/" title="Customised Solutions" >Customised Solutions</a></p>
+    <div align="left"><span class="seo_text">Exa provides a full set of Customised Web Development services to satisfy all your online needs.</span></div>
+    <a class="float_txt more_link" href="http://www.exa.com.au/products/"  title="Read more on Customised Solutions">more&nbsp;&gt;&gt;</a>
+  </div>
+    <div class="float_txt c2a_div">
+    <p class="paddg_c2a_web_design"><img src="http://www.exa.com.au/images/home_page/web_design.jpg" class="float_txt seo_img" alt="Web Design" title="Web Design" /><a class="float_txt c2a_panel_txt " href="http://www.exa.com.au/web_design/" title="Web Design">Web Design</a></p>
+    <div align="left"><span class="seo_text">Professional Web Design, customised to properly represent your business and brand.</span></div>
+   <a class="float_txt more_link" href="http://www.exa.com.au/web_design/" title="Read more on Web Design">more&nbsp;&gt;&gt;</a>
+  </div>
+   <div class="float_txt c2a_contactus_div">
+    <p class="paddg_c2a_contact_us"><img src="http://www.exa.com.au/images/home_page/contactus_img.jpg" class="float_txt seo_img" alt="Contact Us" title="Contact Us" /><a class="float_txt c2a_panel_txt " href="http://www.exa.com.au/contact/" title="Contact Us" >Contact Us</a></p>
+    <div align="left"><span class="seo_text">Discuss your requirements with an expert consultant, obligation free.</span></div>
+    <p align="left" class="paddg_c2a_contact_us_phone">1800 09 69 69</p>
+    <a class="paddg_c2a_contact_us_link" href="http://www.exa.com.au/contact/" title="Click here to contact us">click here&nbsp;&gt;&gt;</a>
+  </div>
+</div>  </div>
+  <!-- ********************************************************************************************************************* -->
+  <!-- ##################################################################################################################### -->
+  <div class="body_text mainbody automargin"  align="left">
+    <div class="main_content">
+      <p class="home_bluetxt">Let us take your business to the next level</p>
+      <p class="paddtop2"> Digital marketing is the heart muscle of the modern day   marketing plan, providing measurable, tangible results and the brand presence   today&rsquo;s customer demands. A  <a class="links"  href="http://www.exa.com.au/products/" title="Customised Solution">customised   solution</a>, designed around your specific   business and market objectives, promises to deliver value. Our clients <a class="links"  href="http://www.exa.com.au/folio/testimonials.html" title="Testimonial">testify</a> to the benefits of an Exa Web   Solution, such as competitive advantage, greater market share, increased   revenue, brand equity and reduced advertising spend.<br/><br/>
+Because we understand that your website can be your company&rsquo;s   most effective tool, we tailor a strategy that fits your <a class="links" href="http://www.exa.com.au/online_marketing/"  title="Online Marketing ">online marketing</a> needs perfectly, and use the latest   techniques and technology to design and deliver a cutting edge solution that is   professional, yet practical.<br/><br/>
+Our aim is to fulfil your primary marketing objective of   attracting quality customers and generating new business for your organisation.   We recognise that every business we partner with has unique requirements, and   identify and harness these opportunities to give your business the edge it needs   to succeed.<br/>
+        <br/>
+      </p>
+      <h3 class="h3_heading"> Proven Technology and Experienced Team</h3>
+      In today&rsquo;s complex business environment, achieving a competitive edge and securing your position as your industry&rsquo;s leader, requires a professional and credible web partner. We incorporate the best <a class="links" href="http://www.exa.com.au/web_design/" title="Web Design">Web Design</a>, <a class="links"  href="http://www.exa.com.au/web/" title="Web Development">Web Development</a> and <span class="strong_text">SEO</span> techniques on offer. With around 200 staff, including highly experienced <a class="links"  href="http://www.exa.com.au/services/web_designers.php" title="Web Designers">Web Designers</a>, <a class="links"  href="http://www.exa.com.au/services/web_developers.php" title="Web Developers">Web Developers</a> and SEO experts,we can help take your business to the next level via a powerful Online Marketing<a class="links" href="http://www.exa.com.au/services/online_marketing.php"  title="Online Marketing "></a> campaign.<br/>
+      <br/>
+      For more information on our company, visit the <a class="links" href="http://www.exa.com.au/about/"  title="About Us">About Us</a> section of this website.<br/>
+      <br/>
+      <h3 class="h3_heading">Project Design: Analysis, Planning and Strategy</h3>
+      In determining your <a class="links"  href="http://www.exa.com.au/products/" title="Customised Web Solution">Customised Web Solution</a> we consider all factors that influence the success of your Online Marketing These include your industry, business type, product type, target market, customer preferences and market behaviour. In fact, Exa has the most thorough Project Design phase possible. This is because we recognise the importance of proper analysis and planning in an effective Online Marketing strategy.<br/>
+      <br/>
+      Read more about our <a class="links"  href="http://www.exa.com.au/web/project_scoping_and_design.html" title="Project Scoping &amp; Design">Project Scoping &amp; Design</a> phase. <br/>
+      <br/>
+      <h3 class="h3_heading"> ROI Driven Approach</h3>
+      Your Exa Web Solution will create value and provide a high return on investment. It will effectively promote your products and services. It will help to enhance the value of your brand. It will improve public relations and customer engagement. As the ultimate vehicle for cross-promotion, your <span class="strong_text">Online Marketing</span> will support all other marketing activities. Most importantly, it will generate customer enquiries, stimulate sales leads and maximise conversions to assist with your business profitability, growth and sustainability. We focus heavily on your ROI and make your Online Marketing accountable.<br/>
+      <br/>
+      Learn more about our <a class="links" href="http://www.exa.com.au/online_marketing/"  title="Online Marketing ">Online Marketing</a> strategy.<br/>
+      <br/>
+      <h3 class="h3_heading">Customer Service</h3>
+      With Exa, your Online Marketing will be targeted and measurable. Response and return are easily tracked using metrics that Exa has in place to monitor activity and measure results. Our clients are assigned an e-Business team, which includes an <a class="links" href="http://www.exa.com.au/seo/" title="SEO">SEO</a> expert and dedicated Project Manager. Your Project Manager will support you during the Web Design and Development phase and throughout the duration of your partnership with Exa. Our customer service strategy is a demonstration of the excellence we provide our customers. As a Web Solutions company, it is our aim to provide the best customer service of any Online Marketing, <a class="links" href="http://www.exa.com.au/web_design/" title="Web Design">Web Design</a>, <span class="strong_text">Web Development</span> or SEO company in the industry.<br/>
+      <br/>
+      Visit <a class="links"  href="http://www.exa.com.au/about/methodology.html" title="Methodology">Methodology</a> for an overview of our best practices.<br/>
+      <br/>
+      <h3 class="h3_heading">World Class Techniques</h3>
+      Through our world class <a class="links" href="http://www.exa.com.au/seo/" title="SEO">SEO</a> techniques, Exa has the highest rate of getting its clients&rsquo; websites to the top of Google&trade; for their most relevant search terms. Many companies claim to get high Google&trade; rankings, but no other company in Australia achieves what we do. This is because only Exa has Web Magnet&trade;, our patented solution to SEO (Search Engine Optimisation). Web Magnet&trade; is a holistic <a class="links"  href="http://www.exa.com.au/products/web_magnet.html" title="SEM">SEM</a> (Search Engine Marketing) system, which goes beyond the Web Design and Development industry&rsquo;s most advanced <span class="strong_text">SEO</span> techniques, and incorporates our unique state of the art SEM formula. Web Magnet&trade; is an unprecedented breakthrough in technology.<br/>
+      <br/>
+      Gain a deeper understanding of our <a class="links"  href="http://www.exa.com.au/products/web_magnet.html" title="Web Magnet&trade;">Web Magnet&trade;</a> and its benefits.<br/>
+      <br/>
+      <h3 class="h3_heading">High Rankings, Top Results</h3>
+      Over 8 million searches are executed on Google&trade; Australia per day. Google&trade; connects 80.7% of searches in Australia to websites. Your website will achieve top search engine positions for your most searched for keywords and web traffic to your site will be maximised with Exa as your Web Partner. Furthermore visitors to your website will be relevant and of the highest quality possible. High quality traffic means that conversions will be maximised and that you will promptly see results from your web campaign. As Australia&rsquo;s leader in Online Marketing and <a class="links" href="http://www.exa.com.au/seo/" title="SEO">SEO</a>, we produce high rankings and top results.<br/>
+      <br/>
+      Review our <a class="links"  href="http://www.exa.com.au/folio/seo.html" title="SEO Results">SEO Results</a>. <br/>
+      <br/>
+      <h3 class="h3_heading">Comprehensive Range of Services</h3>
+      Exa has a full suite of products available to fully cater to your requirements for a Customised Web Solution. In addition to <span class="strong_text">Web Design</span>, SEO and Web Development, our company can tailor your web package to include <a class="links"  href="http://www.exa.com.au/products/email_marketing.html" title="Email Marketing">Email Marketing</a>, <a class="links"  href="http://www.exa.com.au/web/e-commerce.html" title="E-Commerce">E-Commerce</a>, Online Video, <a class="links"  href="http://www.exa.com.au/web/content_management.html" title="CMS">CMS</a> for Content Management, <a class="links"  href="http://www.exa.com.au/products/product_management_system.html" title="Product Management System">Product Management System</a>, <a class="links"  href="http://www.exa.com.au/intranet/" title="Intranet">Intranet</a>, Software Integration and Mobile Media. Exa also offers standardised packages, which are an ideal solution for SME&rsquo;s wanting to concentrate their <a class="links" href="http://www.exa.com.au/web_design/" title="Web Design">Web Design</a><a class="links" href="http://www.exa.com.au/services/web_design.php" title="Web Design"></a> or Web Development on Online Marketing.<br/>
+      <br/>
+      See our full range of products and services by visiting our website&rsquo;s <a class="links"  href="http://www.exa.com.au/web/" title="Web Development">Web Development</a> section.<br/>
+      <br/>
+      <h3 class="h3_heading"> Industry Leader</h3>
+      Exa consistently outperforms its competitors in Google&trade;. Our website is number 1 for search terms such as <span class="strong_text">Online Marketing</span>, <a class="links" href="http://www.exa.com.au/seo/" title="SEO">SEO</a>, Web Design and Web Development. These are our industry&rsquo;s most relevant and searched for keywords. Our website also has a Google&trade; page rank of 6, which is equivalent to, or ahead of, some of the world&rsquo;s largest brands. In March 2008, Hitwise rated Exa&rsquo;s website as the 6th most trafficked site of any technology company in Australia (Nett Mag, June 2008). In selecting a Web Design and Development Company for your business, you should only trust an <a class="links" href="http://www.exa.com.au/online_marketing/"  title="Online Marketing ">Online Marketing</a> company that is number 1 in Google&trade;.<br />
+      <br/>Choose the industry leader, choose <span class="strong_text">Exa</span>. <a class="links"  href="http://www.exa.com.au/contact" title="Contact Us">Contact Us</a>.<br/>
+      <br/>
+      <br/>
+    </div>
+    <div class="homeflash float_txt">
+       <div  id="video_display" class="videodisplay_size" align="left"></div><a id="video_testimonials" href="http://www.exa.com.au/ajaxtpl/video_testimonial.php" title="Exa's Video Testimonials"></a>
+      <div class="comment_main">
+        <div>
+          <div class="comment_top">
+            <p class="comment_paddg"> <span  class="comment_maintext" >Comment On This Video</span></p>
+          </div>
+          <div class="blog_bg">
+					<div class="comment_blog_ht">
+	<form name="post_blog_frm" id="post_blog_frm" method="post" action="http://www.exa.com.au">
+  <div class="commentblog_name" >
+	<p align="right" class="comment_name"><span class="comment_text">Name:</span> </p>
+	<p class="commentblog_input float_txt">
+	  <input type="text" name="name" id="name" maxlength="100"  tabindex="1" size="10" class="input_margin" />
+	</p>
+  </div>
+  <div class="commentblog_email">
+	<p align="right" class="comment_name"  ><span class="comment_text">Email Address:</span></p>
+	<p class="commentblog_input float_txt">
+	  <input type="text" name="email" id="email" maxlength="100"  tabindex="2" size="10" class="input_margin"  />
+	</p>
+  </div>
+  <div class="commentblog_commment">
+	<p align="right"  class="comment_name" ><span class="comment_text">Comment:</span></p>
+	<p align="right">
+	  <textarea name="comment" cols="35" rows="4" id="comment" tabindex="3"></textarea>
+	</p>
+  </div>
+  <div align="left" class="fifty_charac"><span id="char">100</span> characters remaining</div>
+  <div id="commentblog_word_verification">
+	<p align="right"  class="comment_name" ><span class="comment_text">Word Verification:</span></p>
+	<p class="commentblog_input float_txt">
+		<label for="rano"><img src="http://www.exa.com.au/lib/secure.php" title="" alt="" align="middle" /></label>
+		<a class="help padd" href="javascript:;" ><img align="top" src="http://www.exa.com.au/images/help.jpg" alt="Please type the characters you see on to your left." title="Please type the characters you see on to your left." border="0" /></a>
+		<span class="commentblog_input float_txt"><input title="secure" name="rano" type="text"  id="rano"  maxlength="3" tabindex="4" size="15" class="input_margin" /></span>
+	</p>
+  </div>
+    <div align="right"><img id="post_blog" src="images/home_page/post_blog.jpg" class="post_blog" alt="Post Blog" title="Post Blog"/></div>
+</form>
+</div>						<div class="blog_main">
+								<div id="blog_scroller"><br />
+												<ul class="wrapper">
+													<li class="headline">
+						<img src="images/post_icon.gif" border="0" alt="Posted by: Caroline" title="Posted by: Caroline" /><b>Posted by:</b> Caroline <br/>
+									29.09.2009 | 11.02am <br />
+									<p class="blog_padg">Fantastic ad! Research shows that offline advertising drives online traffic significantly</p>
+						</li>
+											<li class="headline">
+						<img src="images/post_icon.gif" border="0" alt="Posted by: Andrea Gutwirth" title="Posted by: Andrea Gutwirth" /><b>Posted by:</b> Andrea Gutwirth <br/>
+									23.08.2009 | 7.45am <br />
+									<p class="blog_padg">Awesome Video! Concise, Succinct, Attentive, Clear and Attractive. Thank You, Andrea </p>
+						</li>
+											<li class="headline">
+						<img src="images/post_icon.gif" border="0" alt="Posted by: Glen Carpenter" title="Posted by: Glen Carpenter" /><b>Posted by:</b> Glen Carpenter <br/>
+									19.08.2009 | 11.35am <br />
+									<p class="blog_padg">EXCELLENT</p>
+						</li>
+											<li class="headline">
+						<img src="images/post_icon.gif" border="0" alt="Posted by: Gary Kirsten" title="Posted by: Gary Kirsten" /><b>Posted by:</b> Gary Kirsten <br/>
+									24.07.2009 | 5.05am <br />
+									<p class="blog_padg">Awesome Video!!!....Who did it Fellas!!!</p>
+						</li>
+											<li class="headline">
+						<img src="images/post_icon.gif" border="0" alt="Posted by: petrina" title="Posted by: petrina" /><b>Posted by:</b> petrina <br/>
+									16.07.2009 | 5.33am <br />
+									<p class="blog_padg">very true.  I rarely go past the first page of google. </p>
+						</li>
+											<li class="headline">
+						<img src="images/post_icon.gif" border="0" alt="Posted by: Robert Ragg" title="Posted by: Robert Ragg" /><b>Posted by:</b> Robert Ragg <br/>
+									11.06.2009 | 4.34am <br />
+									<p class="blog_padg">Nice Professional Video giving the customer the bottom line and what you specialize in.</p>
+						</li>
+											<li class="headline">
+						<img src="images/post_icon.gif" border="0" alt="Posted by: Scott Carde" title="Posted by: Scott Carde" /><b>Posted by:</b> Scott Carde <br/>
+									14.05.2009 | 9.16am <br />
+									<p class="blog_padg">This is really a great post about Internet Wealth. Well written also. Every body now can earn money </p>
+						</li>
+											<li class="headline">
+						<img src="images/post_icon.gif" border="0" alt="Posted by: Peter Macaron" title="Posted by: Peter Macaron" /><b>Posted by:</b> Peter Macaron <br/>
+									09.05.2009 | 8.45am <br />
+									<p class="blog_padg">Nice website. </p>
+						</li>
+											<li class="headline">
+						<img src="images/post_icon.gif" border="0" alt="Posted by: Mike K" title="Posted by: Mike K" /><b>Posted by:</b> Mike K <br/>
+									18.04.2009 | 10.23am <br />
+									<p class="blog_padg">nice work with the ad and report guys!</p>
+						</li>
+											<li class="headline">
+						<img src="images/post_icon.gif" border="0" alt="Posted by: Alan Fraser" title="Posted by: Alan Fraser" /><b>Posted by:</b> Alan Fraser <br/>
+									17.04.2009 | 2.20pm <br />
+									<p class="blog_padg">Well done guys, very inspiring Ad!</p>
+						</li>
+											<li class="headline">
+						<img src="images/post_icon.gif" border="0" alt="Posted by: Rob" title="Posted by: Rob" /><b>Posted by:</b> Rob <br/>
+									04.04.2009 | 12.07am <br />
+									<p class="blog_padg">Yes, no doubt about it, being number one on Google is important for every business these days.</p>
+						</li>
+											<li class="headline">
+						<img src="images/post_icon.gif" border="0" alt="Posted by: Jamie" title="Posted by: Jamie" /><b>Posted by:</b> Jamie <br/>
+									21.03.2009 | 6.06am <br />
+									<p class="blog_padg">I haven’t seen an ad  on TV for a web company before. Awesome!</p>
+						</li>
+											<li class="headline">
+						<img src="images/post_icon.gif" border="0" alt="Posted by: Jennifer" title="Posted by: Jennifer" /><b>Posted by:</b> Jennifer <br/>
+									10.03.2009 | 12.05pm <br />
+									<p class="blog_padg">I downloaded the report and it was very helpful. Thanks Exa</p>
+						</li>
+											<li class="headline">
+						<img src="images/post_icon.gif" border="0" alt="Posted by: Paul" title="Posted by: Paul" /><b>Posted by:</b> Paul <br/>
+									17.02.2009 | 7.04am <br />
+									<p class="blog_padg">I saw this ad on Channel 10</p>
+						</li>
+											<li class="headline">
+						<img src="images/post_icon.gif" border="0" alt="Posted by: Eric" title="Posted by: Eric" /><b>Posted by:</b> Eric <br/>
+									06.03.2009 | 3.00pm <br />
+									<p class="blog_padg">Great ad!</p>
+						</li>
+					</ul>
+													</div>
+							</div>
+          </div>
+        </div>
+      </div>	  <div class="newsletter_main">
+<div class="newsletter_bg">
+<p class="comment_maintext newsletter_padg">Exa Newsletter</p>
+</div>
+<div class="exanewsletter_body" >
+<div class="subscribe_news">Subscribe to Newsletter </div>
+<form name="newsletter" method="post" action="">
+<div id="nl_result"></div>
+<div class="newsletter_subdiv">
+<div class="newsletter_name">
+<p align="right" class="comment_name"><span class="comment_text">Name:</span></p>
+<p class="commentblog_input float_txt">
+<input type="text" name="news_name" id="news_name" maxlength="100" tabindex="7" size="10" class="input_margin" />
+</p>
+</div>
+<div class="commentblog_email">
+<p align="right" class="comment_name"><span class="comment_text">Email Address:</span></p>
+<div class="commentblog_input float_txt">
+<input type="text" name="news_email" id="news_email" maxlength="100" tabindex="8" size="10" class="input_margin"  />
+</div></div><p align="right" class="home_submit_paddg"><img id="nl_submit" src="images/home_page/home_submit.jpg" alt="Submit" title="Submit" /></p></div>
+</form>
+</div><div class="newsletter_bottom"><img src="images/home_page/newsletter_bottom.gif" width="230" height="8" alt="" title=""/></div>
+</div>        <div align="right" id="home_newsletter_link"><br/>
+          <a title="autumn&nbsp;'09 newsletter" href="http://www.exa.com.au/articles/" target="_blank">Winter 09 Newsletter&nbsp;&raquo;</a>
+		</div>
+	  <div id="noticeboard">
+<div class="newsletter_bg"><p class="comment_maintext newsletter_padg">Exa Noticeboard</p></div>
+<div class="content">
+<p><b>Do you have a Web Development business that you're ready to sell?</b><br /></p>
+<p>Web Development can be a tough game, and many small businesses find it difficult to properly service their customers or make sufficient profit.<br /></p>
+<p>If you are thinking about moving on and would like a reputable company to continue servicing your good customers, <a class="links"  href="http://www.exa.com.au/contact" title="Contact Us">Contact Us</a> for a confidential discussion.</p>
+</div>
+<div class="newsletter_bottom"><img src="images/home_page/newsletter_bottom.gif" width="230" height="8" alt="" title=""/></div>
+</div><br />
+	  <div><!-- ADDTHIS BUTTON BEGIN --><script type="text/javascript">
+addthis_pub             = 'webmagnet'; 
+addthis_logo            = 'http://www.exa.com.au/images/exa_e.gif';
+addthis_logo_background = 'EFEFFF';
+addthis_logo_color      = '666699';
+addthis_brand           = 'Exa Web Design';
+addthis_options         = 'digg, facebook, stumbleupon, reddit, technorati, delicious, google, live, twitter, more';
+</script>
+<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" border="0" alt="Share" /></a>
+<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+<!-- ADDTHIS BUTTON END --></div>
+    </div>
+    <!-- ##################################################################################################################### -->
+  </div>
+</div>
+<div  class="footer_maindiv">
+  <div class="footer_sub_main">
+    <div class="footer_subdiv" align="left" >
+      <h3><a href="http://www.exa.com.au/products/" title="Products" class="footer_maintext">Products</a></h3>
+      <h3><a href="http://www.exa.com.au/products/" title="Customised Solutions" class="footer_subtext">Customised Solutions</a></h3>
+      <h3><a href="http://www.exa.com.au/products/ecommerce.html" title="eCommerce" class="footer_subtext">eCommerce</a></h3>
+      <h3><a href="http://www.exa.com.au/products/email_marketing.html" title="Email Marketing" class="footer_subtext">Email Marketing</a></h3>
+      <h3><a href="http://www.exa.com.au/products/seo.html" title="SEO" class="footer_subtext">SEO</a></h3>
+      <h3><a href="http://www.exa.com.au/products/web_design.html" title="Web Design" class="footer_subtext">Web Design</a></h3>
+      <h3><a href="http://www.exa.com.au/products/web_development.html" title="Web Development" class="footer_subtext">Web Development</a></h3>
+      <h3><a href="http://www.exa.com.au/products/web_marketing.html" title="Web Marketing" class="footer_subtext">Web Marketing</a></h3>
+      <h3><a href="http://www.exa.com.au/products/websites.html" title="Website Packages" class="footer_subtext">Website Packages</a></h3>
+      <h3><a href="http://www.exa.com.au/products/web_magnet.html" title="Web Magnet" class="footer_subtext">Web Magnet</a></h3>
+      <h3><a href="http://www.exa.com.au/products/product_management_system.html" title="Product Management System" class="footer_subtext">Product Management System</a></h3>
+      <h3><a href="http://www.exa.com.au/products/content_management_system.html" title="Content Management System" class="footer_subtext">Content Management System</a></h3>
+      <h3><a href="http://www.exa.com.au/intranet/" title="Intranets" class="footer_subtext">Intranets</a></h3>
+      <h3><a href="http://www.exa.com.au/products/web_copywriting.html" title="Web Copywriting" class="footer_subtext">Web Copywriting</a></h3>
+      <h3><a href="http://www.exa.com.au/products/hosting_and_support.html" title="Hosting and Support" class="footer_subtext">Hosting and Support</a></h3>
+      <h3><a href="http://www.exa.com.au/it/security.html" title="Internet Security" class="footer_subtext">Internet Security</a></h3>
+      <h3><a href="http://www.exa.com.au/it/" title="IT Services" class="footer_subtext">IT Services</a></h3>
+    </div>
+    <div class="float_txt footer_aboutdiv" align="left" >
+      <h3><a href="http://www.exa.com.au/about/" title="About Us" class="footer_maintext">About Us</a></h3>
+      <h3><a href="http://www.exa.com.au/about/background.html" title="Background" class="footer_subtext">Background</a></h3>
+      <h3><a href="http://www.exa.com.au/about/methodology.html" title="Methodology" class="footer_subtext">Methodology</a></h3>
+      <h3><a href="http://www.exa.com.au/about/team.html" title="Exa Team" class="footer_subtext">Exa Team</a></h3>
+      <h3><a href="http://www.exa.com.au/about/jobs.html" title="Careers" class="footer_subtext">Careers</a></h3>
+      <h3><a href="http://www.exa.com.au/about/investor_relations.html" title="Investor Relations" class="footer_subtext">Investor Relations</a></h3>
+      <br/>
+      <h3><a href="http://www.exa.com.au/client/" title="Client Area" class="footer_maintext">Client Area</a></h3>
+      <h3><a href="http://www.exa.com.au/client/post_testimonial.php" title="Submit Testimonial" class="footer_subtext">Submit Testimonial</a></h3>
+      <h3><a href="http://www.exa.com.au/client/approval.php" title="Client Sign-Off Form" class="footer_subtext">Client Sign-Off Form</a></h3>
+      <h3><a href="http://www.exa.com.au/domain_register/" title="Domain Registration" class="footer_subtext">Domain Registration</a></h3>
+      <h3><a href="http://www.exa.com.au/faq/" title="IT FAQ" class="footer_subtext">IT FAQ</a></h3>
+      <h3><a href="http://www.exa.com.au/web/latest_internet_news.php" title="News" class="footer_subtext">News</a></h3>
+      <h3><a href="http://www.exa.com.au/terms/privacy.html" title="Privacy Policy" class="footer_subtext">Privacy Policy</a></h3>
+      <h3><a href="http://www.exa.com.au/terms/disclaimer.html" title="Disclaimer" class="footer_subtext">Disclaimer</a></h3>
+    </div>
+    <div class="float_txt footer_homediv" align="left">
+      <h3><a href="http://www.exa.com.au" title="Home" class="footer_maintext">Home</a></h3>
+      <h3><a href="http://www.exa.com.au/web_design/" title="Web Design" class="footer_subtext">Web Design</a></h3>
+      <h3><a href="http://www.exa.com.au/online_marketing/" title="Online Marketing" class="footer_subtext">Online Marketing</a></h3>
+      <h3><a href="http://www.exa.com.au/services/internet_marketing.php" title="Internet Marketing" class="footer_subtext">Internet Marketing</a></h3>
+      <h3><a href="http://www.exa.com.au/seo/" title="SEO" class="footer_subtext">SEO</a></h3>
+      <h3><a href="http://www.exa.com.au/seo/" title="Search Engine Optimisation" class="footer_subtext">Search Engine Optimisation</a></h3>
+      <h3><a href="http://www.exa.com.au/folio/seo.html" title="SEO Company" class="footer_subtext">SEO Company</a></h3>
+      <h3><a href="http://www.exa.com.au/folio/testimonials.html" title="Testimonials" class="footer_subtext">Testimonials</a></h3>
+      <h3><a href="http://www.exa.com.au/folio/" title="Portfolio" class="footer_subtext">Portfolio</a></h3>
+      <h3><a href="http://www.exa.com.au/contact/" title="Contact Us" class="footer_subtext">Contact Us</a></h3>
+      <h3><a href="http://www.exa.com.au/articles/" title="Articles" class="footer_subtext">Articles</a></h3>
+      <h3><a href="http://www.exa.com.au/our_services.php" title="Services1" class="footer_subtext">Services1</a></h3>
+      <h3><a href="http://www.exa.com.au/our_services2.php" title="Services2" class="footer_subtext">Services2</a></h3>
+      <h3><a href="http://www.exa.com.au/our_services3.php" title="Services3" class="footer_subtext">Services3</a></h3>
+      <h3><a href="http://www.exa.com.au/exasearch/sitemap.php" title="Sitemap" class="footer_subtext">Sitemap</a></h3>
+      <h3><a href="http://www.exa.com.au/folio/links.html" title="Links" class="footer_subtext">Links</a></h3>
+    </div>
+    <div align="left" style="width:176px;float:left;">
+      <h3><a href="http://www.exa.com.au/web/" title="Web Development" class="footer_maintext">Web Development</a></h3>
+      <h3><a href="http://www.exa.com.au/web/web_magnet.html" title="Web Magnet" class="footer_subtext">Web Magnet</a></h3>
+      <h3><a href="http://www.exa.com.au/web/website_packages.html" title="Website Packages" class="footer_subtext">Website Packages</a></h3>
+      <h3><a href="http://www.exa.com.au/web/customised_solutions.html" title="Customised Solutions" class="footer_subtext">Customised Solutions</a></h3>
+      <h3><a href="http://www.exa.com.au/web/project_scoping_and_design.html" title="Project Scoping &amp; Design" class="footer_subtext">Project Scoping &amp; Design</a></h3>
+      <h3><a href="http://www.exa.com.au/web/email_marketing.html" title="Email Marketing" class="footer_subtext">Email Marketing</a></h3>
+      <h3><a href="http://www.exa.com.au/web/e-commerce.html" title="e-Commerce" class="footer_subtext">e-Commerce</a></h3>
+      <h3><a href="http://www.exa.com.au/web/content_management.html" title="Content Management" class="footer_subtext">Content Management</a></h3>
+      <h3><a href="http://www.exa.com.au/web/product_management.html" title="Product Management" class="footer_subtext">Product Management</a></h3>
+      <h3><a href="http://www.exa.com.au/web/copywriting.html" title="Copywriting" class="footer_subtext">Copywriting</a></h3>
+      <h3><a href="http://www.exa.com.au/web/intranets.html" title="Intranets" class="footer_subtext">Intranets</a></h3>
+      <h3><a href="http://www.exa.com.au/web/revamps.html" title="Website Revamps" class="footer_subtext">Website Revamps</a></h3>
+      <br/>
+      <br/>
+      <br/>
+      <div class="footer_searchdiv">
+        <form id="exasearch_footer" action="http://www.exa.com.au/exasearch2/search.php" method="get" name="exasearch_footer">
+          <img src="http://www.exa.com.au/images/home_page/search_icon.jpg" alt="Search" width="22" height="19" align="left" class="footer_search_icon"/>
+          <input  type="text" id="footer_search"  name="s" align="bottom" class="searchbox"  value="search"/>
+          <input class="footersearch_go_btn" type="submit" value="" name="submit" />
+        </form>
+      </div>
+    </div>
+    <div align="left" class="float_txt footer_contactdiv">
+      <h3><a href="http://www.exa.com.au/contact/" title="Contact" class="footer_maintext" >Contact</a></h3>
+      <span class="footer_headofficetext">Head Office:</span><br/>
+      <span class="footer_headofficetext">1186 Toorak Road,</span><br/>
+      <span class="footer_headofficetext"> Camberwell VIC 3124 Australia</span><br/>
+      <span class="footer_headofficetext">p 1800 09 69 69</span><br/>
+      <span class="footer_headofficetext">f +(61) 3 9923 6689</span><br/>
+      <div id="map_div" align="right">
+        <div id="perth_div" class="perth_size" ></div>
+        <div id="ald_div" class="ald_size" ></div>
+        <div id="melb_div" class="melb_size" ></div>
+        <div id="sydney_div" class="sydney_size" ></div>
+        <div id="gold_div" class="gold_size" ></div>
+        <div id="brisb_div" class="brisb_size" ></div>
+      </div>
+    </div>
+  </div>
+  <br/>
+  <br/>
+  <br/>
+</div>
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript">try {var pageTracker = _gat._getTracker("UA-1244774-6");pageTracker._trackPageview();} catch(err) {}</script>
+<script language="JavaScript" type="text/javascript" src="http://www.exa.com.au/js/flashobject.js?20090930185504"></script>
+<script type="text/javascript" src="http://www.exa.com.au/js/jquery.js" ></script>
+<script language="JavaScript" type="text/javascript" src="http://www.exa.com.au/js/jquery.simpletip-1.3.1.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.exa.com.au/js/jquery.fancybox-1.2.1.pack.js"></script>
+<script type="text/javascript" src="http://www.exa.com.au/js/home_functions.js"></script>
+<script type="text/javascript" src="http://www.exa.com.au/js/blogScroller.js" ></script>
+<script language="JavaScript" type="text/javascript" src="http://www.exa.com.au/js/footer.js"></script>
+<script type="text/javascript" language="javascript">
+$(function()
+{
+	var so = new SWFObject("http://www.exa.com.au/flash/exa_banner_final7.swf", "home_flash", "985", "337", "6", "");
+	so.addParam("wmode", "transparent");
+	so.addParam("flashvars", "&amp;fpath=http://www.exa.com.au&amp;om=http://www.exa.com.au/online_marketing.php&amp;flash_text=&amp;page_id=&amp;testimonials1=http://www.exa.com.au/folio/testimonials1.html#testimonial_pos_175&amp;testimonials9=http://www.exa.com.au/folio/testimonials1.html#testimonial_pos_184&amp;testimonials17=http://www.exa.com.au/folio/testimonials1.html#testimonial_pos_129&amp;=http://www.exa.com.au/folio/testimonials1.html#testimonial_pos_47&amp;=http://www.exa.com.au/folio/testimonials1.html#testimonial_pos_145&amp;=http://www.exa.com.au/folio/testimonials2.html#testimonial_pos_19&amp;=http://www.exa.com.au/folio/testimonials2.html#testimonial_pos_20&amp;testimonials2=http://www.exa.com.au/folio/testimonials2.html#testimonial_pos_177&amp;testimonials3=http://www.exa.com.au/folio/testimonials2.html#testimonial_pos_178&amp;testimonials6=http://www.exa.com.au/folio/testimonials3.html#testimonial_pos_180&amp;testimonials15=http://www.exa.com.au/folio/testimonials3.html#testimonial_pos_79&amp;testimonials11=http://www.exa.com.au/folio/testimonials3.html#testimonial_pos_1&amp;=http://www.exa.com.au/folio/&amp;=http://www.exa.com.au/folio/testimonials3.html#testimonial_pos_97&amp;=http://www.exa.com.au/folio/testimonials4.html#testimonial_pos_183&amp;testimonials4=http://www.exa.com.au/folio/testimonials4.html#testimonial_pos_176&amp;=http://www.exa.com.au/folio/testimonials4.html#testimonial_pos_51&amp;=http://www.exa.com.au/folio/testimonials4.html#testimonial_pos_23&amp;testimonials16=http://www.exa.com.au/folio/testimonials4.html#testimonial_pos_139&amp;=http://www.exa.com.au/folio/testimonials5.html#testimonial_pos_109&amp;=http://www.exa.com.au/folio/testimonials5.html#testimonial_pos_108&amp;testimonials7=http://www.exa.com.au/folio/testimonials5.html#testimonial_pos_181&amp;=http://www.exa.com.au/folio/testimonials5.html#testimonial_pos_18&amp;=http://www.exa.com.au/folio/testimonials5.html#testimonial_pos_24&amp;testimonials12=http://www.exa.com.au/folio/testimonials6.html#testimonial_pos_50&amp;=http://www.exa.com.au/folio/testimonials6.html#testimonial_pos_49&amp;testimonials8=http://www.exa.com.au/folio/testimonials6.html#testimonial_pos_182&amp;=http://www.exa.com.au/folio/testimonials11.html#testimonial_pos_102&amp;=http://www.exa.com.au/folio/&amp;=http://www.exa.com.au/folio/&amp;=http://www.exa.com.au/folio/&amp;=http://www.exa.com.au/folio/&amp;=http://www.exa.com.au/folio/&amp;=http://www.exa.com.au/folio/");
+	so.write("home_flash");
+	var so1 = new SWFObject("http://www.exa.com.au/flash/logo_scroller.swf", "logo_scroller", "940", "50", "6", "");
+	so1.addParam("wmode", "transparent");
+	so1.addParam("flashvars", "&amp;logo1=http://www.exa.com.au/folio/portfolio_diadora_australia.html&amp;logo2=http://www.exa.com.au/folio/&amp;logo3=http://www.exa.com.au/folio/portfolio_united_nations.html&amp;logo4=http://www.exa.com.au/folio/portfolio_seiko_australia.html&amp;logo5=http://www.exa.com.au/folio/&amp;logo6=http://www.exa.com.au/folio/portfolio_pulsar_watches.html&amp;logo7=http://www.exa.com.au/folio/&amp;logo8=http://www.exa.com.au/folio/portfolio_melbourne_sports_aquatic_centre_msac.html&amp;logo9=http://www.exa.com.au/folio/portfolio_kayser_lingerie.html&amp;logo10=http://www.exa.com.au/folio/&amp;logo11=http://www.exa.com.au/folio/&amp;logo12=http://www.exa.com.au/folio/&amp;logo13=http://www.exa.com.au/folio/&amp;logo14=http://www.exa.com.au/folio/portfolio_united_nations.html&amp;logo15=http://www.exa.com.au/folio/portfolio_godfreys.html&amp;logo16=http://www.exa.com.au/folio/portfolio_peter_mac_research.html&amp;logo17=http://www.exa.com.au/folio/&amp;logo18=http://www.exa.com.au/folio/portfolio_life_fitness_australia.html&amp;logo19=http://www.exa.com.au/folio/portfolio_australian_manufacturing_technology_institute_limited.html&amp;logo20=http://www.exa.com.au/folio/portfolio_seiko_australia.html&amp;logo21=http://www.exa.com.au/folio/&amp;logo22=http://www.exa.com.au/folio/portfolio_chemdry_carpet_solutions.html&amp;logo23=http://www.exa.com.au/folio/portfolio_ymca_canberra.html&amp;logo24=http://www.exa.com.au/folio/&amp;logo25=http://www.exa.com.au/folio/portfolio_pack_and_send.html&amp;logo26=http://www.exa.com.au/folio/&amp;logo27=http://www.exa.com.au/folio/portfolio_showcase_jewellers.html&amp;logo28=http://www.exa.com.au/folio/portfolio_swan_plumbing.html&amp;logo29=http://www.exa.com.au/folio/&amp;logo30=http://www.exa.com.au/folio/&amp;logo31=http://www.exa.com.au/folio/&amp;logo32=http://www.exa.com.au/folio/portfolio_pioneer_road_services.html&amp;logo33=http://www.exa.com.au/folio/portfolio_grab_denim.html&amp;logo34=http://www.exa.com.au/folio/portfolio_fine_lines.html&amp;logo35=http://www.exa.com.au/folio/portfolio_grenda_transit_management.html");
+	so1.write("logo_scroller");
+		
+	var so2 = new SWFObject("http://www.exa.com.au/flash/video_small.swf", "video_display", "230", "201", "9", "");
+	so2.addParam("allowFullScreen","true");	
+	so2.addParam("allowScriptAccess","sameDomain");
+	so2.addParam("wmode","transparent");	  
+	so2.addParam('FlashVars','var_path=http://www.exacap.com/ad/flash/low_res.flv');	
+	so2.write("video_display");
+});
+</script>
+</body></html>
