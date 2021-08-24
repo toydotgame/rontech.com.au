@@ -1,0 +1,42 @@
+<HTML>
+	<HEAD>
+		
+		<script language='javascript' type='text/javascript'>
+			var temp=self.location.href.split("?");
+			var picUrlTitle = (temp.length>1)?temp[1]:"";
+		
+			var temp1=self.location.href.split("ptitle=");
+			
+			var picTitle1 = (temp1.length>1)?temp1[1]:"";
+			var picTitle = picTitle1.replace(/%20/g," ");			
+						
+			var temp2=temp1[0].split("?");
+			
+			var picUrl = (temp2.length>1)?temp2[1]:"";
+			var NS = (navigator.appName=="Netscape")?true:false;
+
+			function fitPic() {
+				iWidth = (NS)?window.innerWidth:document.body.clientWidth;
+				iHeight = (NS)?window.innerHeight:document.body.clientHeight;
+				iWidth = document.images[0].width - iWidth;
+				iHeight = document.images[0].height - iHeight;
+				window.resizeBy(iWidth, iHeight+20);
+				self.focus();
+			};
+		</script>
+	<script language="javascript" type="text/javascript">document.write("<TITLE>" +picTitle+"</TITLE>"); </script>
+
+
+	</HEAD>
+	<BODY bgcolor="#FFFFFF" onload='fitPic();' topmargin="0" marginheight="0" leftmargin="0" marginwidth="0">
+<div align="center" class="proname"> 
+    <script language='javascript'>
+			document.write( "<img src='" +picUrl +"' alt='" +picTitle +"' title='" +picTitle +"' border=0 >" );
+		</script><br>
+        <a href="javascript: window.close();"><font face="Arial, Helvetica, sans-serif" color="#CF0202" size="2" style="text-decoration:none ">Close</font></a><br>
+  </a> 
+  </div>
+<p></p>
+	</BODY>
+</HTML>
+

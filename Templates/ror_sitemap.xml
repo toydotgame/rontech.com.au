@@ -1,0 +1,285 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/index.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="keywords" content="Australian Web Developers,Custom Web Design,Internet Advertising Agency,Internet Security,Internet Services,Online Marketing,Professional Web Design,Search Engine Optimisation Service,Search Engine Positioning,Search Engine Ranking,Search Engine Submission Service,Web Design,Web Design Services,Web Designer,Web Developer,Web Developers,Web Page Design,Web Page Designer,Web Page Maker,Web Page Promotion,Web Programmer,Web Promotion,Web Ranking,Web Site Design Service,Web Site Designer,Web Site Designers,Web Site Hosting,Webdesign,Webdesigner,Webpromotion,Webranking,Website,Website Creation,Website Designer,Website Designers,Website Positioning,Website Promotion,Website Promotions,Website Ranking,Website Submission,Web Site Submission Service,Website Submissions,Website Traffic,Web Development,Website Developers" />
+<meta http-equiv="description" content="Australia's largest Online Marketing specialist providing Search Engine Optimisation, Web Design & Web Development Solutions." /> 
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Web Design, Online Marketing, Website Developer</title>
+<!-- InstanceEndEditable -->
+<link href="http://www.exa.com.au/style/style.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" type="text/javascript" src="http://www.exa.com.au/js/mm_code.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.exa.com.au/js/flashobject.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.exa.com.au/js/pngfix.js"></script>
+<script language="javascript" type="text/javascript" src="http://www.exa.com.au/js/validation_class.js"></script>
+<script language="javascript" type="text/javascript">
+	var newwindow = '';
+	function popitup(url) 
+	{
+		if (newwindow.location && !newwindow.closed) 
+		{ newwindow.location.href = url; newwindow.focus(); } 
+		else 
+		{ newwindow=window.open(url,'call_now','menubar=0,resizable=0,location=0,status=0,scrollbars=0,width=606,height=440') ; }
+	}
+	
+	function load_all_flash()
+	{
+		   
+	   var so = new SWFObject("http://www.exa.com.au/flash/exa_banner_final1.swf", "banner", "985", "438", "2", "");
+	   so.addParam("wmode", "transparent");
+	   so.addParam("flashvars",'&fpath=http://www.exa.com.au&page_id=Home');
+	   so.write("banner");
+
+		if(document.getElementById('c2a_seo')){
+		
+		   var c2a_seo = new SWFObject("http://www.exa.com.au/flash/seo_icon.swf", "c2a_seo", "77", "100", "2", "");
+		   c2a_seo.addParam("wmode", "transparent");
+		   c2a_seo.addParam("flashvars",'&fpath=http://www.exa.com.au&page_id=Home');		
+		   c2a_seo.write("c2a_seo");
+	
+		   var c2a_web_edu_icon = new SWFObject("http://www.exa.com.au/flash/web_edu_icon.swf", "c2a_web_edu_icon", "77", "100", "2", "");
+		   c2a_web_edu_icon.addParam("wmode", "transparent");
+		   c2a_web_edu_icon.addParam("flashvars",'&fpath=http://www.exa.com.au&page_id=Home');		
+		   c2a_web_edu_icon.write("c2a_web_edu_icon");
+
+		 }
+	   if(document.getElementById('c2a_tel_icon')){
+
+		   var c2a_solution_icon = new SWFObject("http://www.exa.com.au/flash/solution_icon.swf", "c2a_solution_icon", "77", "100", "2", "");
+		   c2a_solution_icon.addParam("wmode", "transparent");
+		   c2a_solution_icon.addParam("flashvars",'&fpath=http://www.exa.com.au&page_id=Home');		
+		   c2a_solution_icon.write("c2a_solution_icon");
+	
+		   var c2a_tel_icon = new SWFObject("http://www.exa.com.au/flash/tel_icon.swf", "c2a_tel_icon", "40", "53", "2", "");
+		   c2a_tel_icon.addParam("wmode", "transparent");
+		   c2a_tel_icon.addParam("flashvars",'&fpath=http://www.exa.com.au&page_id=Home');		
+		   c2a_tel_icon.write("c2a_tel_icon");
+	   }
+
+	  
+		   var so1 = new SWFObject("flash/logo_scroller.swf", "logo_scroller", "953", "90", "6", "");
+		   so1.addParam("wmode", "transparent");
+		   so1.addParam("flashvars", "&fpath=http://www.exa.com.au");
+		   so1.write("logo_scroller");
+	   
+	}
+
+	function load_all_folio_flash()
+	{
+	   var so2 = new SWFObject("http://www.exa.com.au/flash/mainNav_top.swf", "mainNav_top", "982", "57", "6", "");
+	   so2.addParam("wmode", "transparent");
+	   so2.addParam("flashvars", "&fpath=http://www.exa.com.au&page_id=folio");
+	   so2.write("mainNav_top");
+	   
+   	   var so3 = new SWFObject("http://www.exa.com.au/flash/nav_folio.swf", "nav_folio", "340", "287", "6", "");
+	   so3.addParam("wmode", "transparent");
+	   so3.addParam("flashvars", "&fpath=http://www.exa.com.au&page_id=folio");
+	   so3.write("nav_folio");
+	   
+	}
+
+	function go_to_url(obj)
+	{
+		window.location = obj.value;
+	}
+</script><!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+</head>
+<body class="body_bg" onload="MM_preloadImages('http://www.exa.com.au/images/seo_strategy_h.gif','http://www.exa.com.au/images/what_solution_h.gif','http://www.exa.com.au/images/web_education_h.gif','http://www.exa.com.au/images/request_consultation_h.gif','http://www.exa.com.au/images/exa_logo.gif'); load_all_flash();">
+<table align="center" width="985" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+			<td width="37%" align="left" valign="top" class="logo_padding"><img src="images/exalogo.gif" alt="Exa" title="Exa" /></td>
+			<td width="63%" align="left" valign="top">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				  <tr>
+					<td align="right" valign="top"><!-- InstanceBeginEditable name="h1" -->
+					  <h1>Web Design, Online Marketing, Website Developer, EU UK USA ASIA AU</h1>
+					<!-- InstanceEndEditable --></td>
+				  </tr>
+				  <tr>
+					<td align="right" valign="top" class="padding_top_80"><script type="text/javascript" language="javascript">
+	function clear_text()
+	{
+		document.getElementById('search').value = "";
+	}
+</script>			 
+
+<form id="exasearch" name="exasearch" method="get" action="http://www.exa.com.au/exasearch2/search.php">			  
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>			  
+<table width="143" border="0" cellpadding="0" cellspacing="0" class="textboxbg">
+  <tr>
+    <td width="30">&nbsp;</td>
+    <td align="left"><input name="s" id="search" type="text" size="10" class="textbox2" value="Search" onclick="javascript:clear_text();"/>    </td>
+  </tr>
+</table>
+</td>
+<td valign="middle" class="search_padding">
+<input name="submit" type="submit" class="search_go_btn" value="" />
+</td>
+</tr>
+</table>
+</form></td>
+				  </tr>
+				</table></td>
+		  </tr>
+		</table></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" class="flash_exabg"><br /><div id="banner" class="banner"></div></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"  class="padding_top_left"><table width="954" border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+			<td align="left" valign="top"><a href="http://www.exa.com.au/services/online_marketing.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('seo_strategy','','http://www.exa.com.au/images/seo_strategy_h.gif',1)" title="SEO Strategy"><img src="http://www.exa.com.au/images/seo_strategy.gif" alt="Seo Strategy" title="Seo Strategy" width="238" height="30" name="seo_strategy" border="0" id="seo_strategy" /></a></td>
+			<td rowspan="3" align="left" width="1" valign="top" class="block_seperator" bgcolor="#53719a" ><img src="http://www.exa.com.au/images/spacer.gif" width="1" /></td>
+			<td align="left" valign="top"><a href="http://www.exa.com.au/products/examarketplace.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('what_solution','','http://www.exa.com.au/images/what_solution_h.gif',1)" title="What Solution"><img src="http://www.exa.com.au/images/what_solution.gif" alt="Select Solution" width="237" height="30" title="Select Solution" name="what_solution" border="0" id="what_solution" /></a></td>
+			<td rowspan="3" align="left" width="1" valign="top" class="block_seperator" bgcolor="#53719a" ><img src="http://www.exa.com.au/images/spacer.gif" width="1" /></td>
+			<td align="left" valign="top"><a href="http://www.exa.com.au/web/ecommerce.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('web_education','','http://www.exa.com.au/images/ecommerce_h.gif',1)" title="eCommerce"><img src="http://www.exa.com.au/images/ecommerce.gif" alt="eCommerce" width="237" height="30" title="eCommerce"  name="web_education" border="0" id="web_education" /></a></td>
+			<td rowspan="3" align="left" width="1" valign="top" class="block_seperator" bgcolor="#53719a" ><img src="http://www.exa.com.au/images/spacer.gif" width="1" /></td>
+			<td align="left" valign="top"><a href="http://www.exa.com.au/contact/index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('request_consultation','','http://www.exa.com.au/images/request_consultation_h.gif',1)" title="Request Consultation"><img src="http://www.exa.com.au/images/request_consultation.gif" alt="Request Consultation" width="240" height="30" title="Request Consultation" name="request_consultation" border="0" id="request_consultation" /></a></td>
+		  </tr>
+		  <tr>
+			<td align="left" valign="top" class="seo_strategy_img" height="100">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			  <tr>
+				<td><div id="c2a_seo"></div></td>
+				<td valign="top" class="block_text block_padding1">Search Engine Optimisation strategy drives traffic to your website using our 
+WebMagnet technology.<br /></td>
+			  </tr>
+			</table>
+			</td>
+			<td align="left" valign="top" class="what_solution_img">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+			  	<td rowspan="4"><div id="c2a_solution_icon"></div></td>
+			  </tr>
+			  <tr>
+				<td align="left" valign="top"><div class="block_text block_padding1">Which suits your business</div></td>
+			  </tr>
+			  <tr>
+				<td align="left" valign="top" class="align_form block_text block_padding1"><form name="prod_nav" method="post" action="/index.html">
+					<select class="formfield" onchange="javascript:go_to_url(this);">
+						<option value="" selected>--Please Select--</option>
+						<option value="http://www.exa.com.au/products/examarketplace.html">Exa Marketplace</option>
+						<option value="http://www.exa.com.au/web/internet_marketing.html">Web Marketing</option>
+						<option value="http://www.exa.com.au/products/websites.html">Websites</option>
+						<option value="http://www.exa.com.au/web/revamps.html">Revamps</option>
+						<option value="http://www.exa.com.au/products/web_magnet.html">Search Engines</option>
+						<option value="http://www.exa.com.au/web/ecommerce.html">eCommerce</option>
+						<option value="http://www.exa.com.au/intranet/index.html">Intranet</option>
+						<option value="http://www.exa.com.au/products/email_marketing.html">Exa Mail</option>
+					</select>
+				</form></td>
+			  </tr>
+			<tr>
+				<td align="left" valign="top" class="block_text block_padding1">Business Web Solutions tailored to you. Explore your options.</td>
+			  </tr>
+			</table></td>
+			<td align="left" valign="top" class="web_edu_img">
+				<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			  <tr>
+				<td><div id="c2a_web_edu_icon"></div><br /></td>
+				<td class="block_text block_padding1" valign="top">At Exa, we believe eCommerce is a crucial element of Online Marketing. Deliver true value by turning your website into a profitable business tool.<br /></td>
+			  </tr>
+			</table>
+			</td>
+			<td align="left" valign="top" class="right_block"><table width="100%" border="0" cellspacing="0" class="block_text block_padding4" cellpadding="0">
+			  <tr>
+				<td colspan="2" align="left" valign="top">Contact us to discuss your unique requirements with a consultant obligation free.</td>
+				</tr>
+			  <tr>
+				<td width="13%" align="left" valign="top"><div id="c2a_tel_icon"></div></td>
+				<td width="87%" align="left" valign="middle"><span class="orange_big_txt">1800 09 69 69</span></td>
+			  </tr>
+			</table></td>
+		  </tr>
+		  <tr>
+		  <td class="midnavbg_left" bgcolor="#1B5293"><div align="right"><a href="http://www.exa.com.au/services/online_marketing.php" class="more" title="more">MORE</a></div></td>
+		  <td bgcolor="#1B5293"><div align="right"><a href="http://www.exa.com.au/products/examarketplace.html" class="more" title="more">MORE</a></div></td>
+		  <td bgcolor="#1B5293"><div align="right"><a href="http://www.exa.com.au/web/ecommerce.html" class="more" title="more">MORE</a></div></td>
+		  <td class="midnavbg_right" bgcolor="#1B5293"><div align="right"><a href="http://www.exa.com.au/contact/index.php" class="more" title="Request Now">REQUEST NOW</a></div></td>
+		  </tr>
+		  <tr>
+			<td colspan="7" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+				  <tr>
+					<td width="2%" align="right" valign="top"><img src="http://www.exa.com.au/images/left_curve.jpg" alt="" title="" width="19" height="7" /></td>
+					<td width="96%" class="bottom_img">&nbsp;</td>
+					<td width="2%" align="left" valign="top"><img src="http://www.exa.com.au/images/right_curve.jpg" alt="" title="" width="19" height="7" /></td>
+				  </tr>
+				</table></td>
+		  </tr>
+	  </table></td>
+  </tr>
+  <tr>
+  	<td align="left" valign="top"><!-- InstanceBeginEditable name="company_logo" -->
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+			<td align="center" valign="top"><div id="logo_scroller" style="width:953px; height:90px;"></div></td>
+		  </tr>
+ </table><!-- InstanceEndEditable -->
+	</td>
+</tr>
+<tr>
+	<td align="left" valign="top" class="body_text align_content_area" ><!-- InstanceBeginEditable name="Content" -->
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td align="left" valign="top" width="50%" class="padding_right1"><h2>You've arrived at the world of Exa</h2>
+              <p>With over 120 full time Staff we are Australia's largest Web Marketing and Solutions Company. We partner hundreds of medium to large, local, national and international organisations with Strategic Web Marketing &amp; Web Solutions to enhance their business, marketing and profit goals. </p>
+            <p>Now in our seventh year of operation, Exa's brilliant programming teams have built up literally millions of lines of extraordinary programming code that we fully customise for any given client solution. We are now able to profitably deliver you solutions for $10K that we could not possibly have deployed for anything under $50K just 2 years ago. Whatever you do - don't just go with the &quot;cheap&quot; solution, it is a totally false economy.</p>
+            <p>Only Exa has the <a href="javascript:;" class="infos">Patented Web Magnet Technology<span>Patent Number 2005100416 valid until 18/05/2013</span></a> that propels our clients to the top of Google and the other search engines. No other company has the results we do, <a href="http://www.exa.com.au/folio/seo.html" class="infos">click here for a small sample of them</a>. Don't settle for second best. Over the years, Exa has also built up a huge stable of world class web solutions including <a href="cms/" class="infos">Content Management Systems</a>, <a href="intranet/index.html" class="infos">Corporate Intranet Design &amp; Development<span>Developing solutions where all corporate knowledge is available on-line, is fully searchable, and can be updated by anyone in the organisation without the need for 3rd party tools, and requiring no technical knowledge.</span></a>, Extranets, <a href="products/eStore.html" class="infos">eCommerce</a>, Mass Emailing and hundreds of other customised solutions. Solutions that save big money and help drive efficiency throughout an organisation or supply chain. <a href="http://www.exa.com.au/folio/portfolio1.html" class="infos">See our Folio for details</a>. </p></td>
+          <td align="left" valign="top" class="padding_left1"><h2>Our world circles around passion and strategy</h2>
+              <p><a href="http://www.exa.com.au/products/websites.html" class="infos">Web Design<span>The art and method of creating an effective online presence to best represent the image and identity of your business, particularly the design of a website's look, feel and graphical style.</span></a>,
+			      <a href="http://www.exa.com.au/web/internet_marketing.html" class="infos">Web Marketing<span>A structured and measurable business promotional campaign that incorporates all the factors involved in producing an effective online presence.</span></a>, 
+			      <a href="http://www.exa.com.au/products/web_magnet.html" class="infos">Search Engine Optimisation<span>Commonly known as SEO, Search Engine Optimisation is the science or method of making your web site search engine friendly so as to achieve rankings and top positions in internet searches and thereby increasing the opportunities for your website to be found by customers.</span></a>,
+				  <a href="http://www.exa.com.au/products/ecommerce.html" class="infos">eCommerce<span>A sales model where products and services are sold or promoted directly to end users via the internet. The focus for an eCommerce business will be a website incorporating product information and the ability to purchase or make orders online.</span></a>,
+				  <a href="http://www.exa.com.au/products/email_marketing.html" class="infos">e-Mail Marketing<span>The method of utilising electronic mail (email) as a medium for Marketing and Promotions.</span></a>,
+			      <a href="http://www.exa.com.au/products/content_management_systems.html" class="infos">Content Management Systems</a>,
+				  <a href="http://www.exa.com.au/products/websites.html" class="infos">Copy Writing<span>A vital ingredient to your effective Online Marketing campaign, Copy Writing is the professional preparation of the written content that represents the information regarding your business and communicates to your target audience and customers.</span></a>,
+				  <a href="http://www.exa.com.au/products/websites.html" class="infos">Web Development<span>The actual production of programming code (HTML, PHP, ASP, etc.) that generates a website's form and function.</span></a>,
+				  <a href="http://www.exa.com.au/web/revamps.html" class="infos">Revamps</a>,
+				  <a href="http://www.exa.com.au/products/websites.html" class="infos">Web Application<span>A reasonably self-contained module of code that performs a specific function on a website, such as sending broadcast emails, and which can be easily re-used on other websites.</span></a>, 
+				  <a href="http://www.exa.com.au/products/content_management_systems.html" class="infos">Database Driven Sites<span>Where a database of information is used to control the content and functionality of the site.</span></a>,
+			      <a href="http://www.exa.com.au/products/websites.html" class="infos">Software Development<span>Software Development is the process of creating and constructing computer programs and other software services, including websites.</span></a>&nbsp;<span class="body">and </span><a href="http://www.exa.com.au/it/index.html" class="infos">IT Services</a>.</p>
+            <p>13 million Australians are now online (with over 60% on broadband) searching for products and services to buy and six million searches are done per day on Google Australia alone. At Exa we understand that your website's position in search engines is a vital client source and lead generator for your business. It's this understanding and our industry know-how that gives us the edge in Internet Marketing and puts our clients ahead of their competitors. </p>
+            <p>Our <a href="http://www.exa.com.au/about/index.html" class="infos">Company Directors, Management and Staff</a> have a combined five hundred years of experience in the IT Service and Web Development industries. Compare that with your current providers. This experience is a key reason Exa is the industry's best in <a href="http://www.exa.com.au/web/revamps.html" class="infos">Web Design</a> and <a href="http://www.exa.com.au/products/web_magnet.html" class="infos">Search Engine Optimisation</a>. We share a goal with our clients to generate the maximum return on investment from their web model in the shortest possible time.</p></td>
+        </tr>
+      </table>
+	<!-- InstanceEndEditable --></td>
+</tr>
+</table><div class="bottom_bg" align="center">
+	<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle"><br />
+      <div class="footer1"><a href="http://www.exa.com.au/" class="footer" title="Created by Exa, Melbourne, Australia"><strong>Created by Exa<img src="http://www.exa.com.au/images/exa_e.gif" alt="Exa" title="Exa" />, Melbourne, Australia</strong></a><br />
+      <a href="http://www.exa.com.au/" class="footer" title="Home">Home</a> :: 
+	  <a href="http://www.exa.com.au/about/" class="footer" title="About Us">About Us</a> :: 
+	  <a href="http://www.exa.com.au/web/" class="footer" title="Web">Web</a> ::
+	  <a href="http://www.exa.com.au/products/" class="footer" title="Products">Products</a> ::
+	  <a href="http://www.exa.com.au/it/" class="footer" title="IT">IT</a> ::
+	  <a href="http://www.exa.com.au/client/" class="footer" title="Client Area">Client Area</a> ::
+	  <a href="http://www.exa.com.au/folio/links.html" class="footer" title="Links">Links</a> :: 
+	  <a href="http://www.exa.com.au/contact/" class="footer" title="Contact Us">Contact Us</a> ::
+	  <a href="http://www.exa.com.au/terms/privacy.html" class="footer" title="Privacy Policy">Privacy Policy</a> ::
+	  <a href="http://www.exa.com.au/terms/disclaimer.html" class="footer" title="Disclaimer">Disclaimer</a> ::  
+	  <a href="http://www.exa.com.au/folio/" class="footer" title="Portfolio">Portfolio</a> :: 
+	  <a href="http://www.exa.com.au/web/internet_marketing.html" class="footer" title="Promotion">Promotion</a> ::
+	  <a href="http://www.exa.com.au/our_services.php" class="footer" title="Services">Services</a> <br />
+	  <a href="http://www.exa.com.au/our_services2.php" class="footer" title="Services2">Services2</a> ::
+	  <a href="http://www.exa.com.au/folio/" class="footer" title="Web Design Melbourne">Web Design Melbourne</a> ::
+	  <a href="http://www.exa.com.au/folio/seo.html" class="footer" title="Web Marketing">Web Marketing</a> ::
+	  <a href="http://www.exa.com.au/seo/" class="footer" title="SEO Company">SEO Company</a> ::
+	  <a href="http://www.exa.com.au/exasearch/sitemap.php" class="footer" title="Sitemap">Sitemap</a> ::
+	  <a href="http://www.bask.com.au" class="footer" title="Beauty">Beauty</a>
+	  </div> 
+	  <br />
+	 </td></tr></table>
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript">var pageTracker=_gat._getTracker("UA-1244774-6");pageTracker._initData();pageTracker._trackPageview();</script>
+
+</div><!-- InstanceBeginEditable name="end script" --><!-- InstanceEndEditable -->
+</body>
+<!-- InstanceEnd --></html>
