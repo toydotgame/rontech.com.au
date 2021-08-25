@@ -1,6 +1,6 @@
-Rontech Security Industries was a security company which operated from founding its in 1986, to its sale and merge with ART Security around 2011.
+Rontech Security Industries was a security company which operated from 1986 to its sale and merge with ART Security on the 8th of July, 2009.
 
-The former URL, [www.rontech.com.au](https://www.rontech.com.au/), is now home to a blog unrelated to Rontech.
+The former URL, [www.rontech.com.au](https://www.rontech.com.au/), is now home to a blog unrelated to Rontech. Luckily, the original site had had [snapshots crawled of it, which are now on the Wayback Machine](http://web.archive.org/web/20100301000000*/http://www.rontech.com.au/).
 
 ***
 
@@ -41,7 +41,7 @@ The re-creation of the site will be primarily visual, where only pages accessibl
 	```
 
 #### Launching
-1. Download the most recent version of the site (before the ARTSec merge notice was put up) from the Wayback Machine:
+1. Download the most recent version of the site (before [the ARTSec merge notice](web.archive.org/web/20110220104339/http://www.rontech.com.au/security/merge_notice.asp) was put up) from the Wayback Machine:
 	```sh
 	wayback_machine_downloader http://www.rontech.com.au/ -d snapshot/ -t 20100227092655 -a -c 10
 	```
