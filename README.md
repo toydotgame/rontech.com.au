@@ -11,6 +11,7 @@ There are three purposes to this repository:
 
 ## A Note on the [`gh-pages` Branch](https://github.com/toydotgame/rontech.com.au/tree/gh-pages)
 The re-creation of the site will be primarily visual, where only pages accessible through a sequence of link clicks from `/index.php` will be re-made. Pages that required direct access via the address bar will _not_ be re-added.
+Currently, however, the `gh-pages` branch is using some renamed files from the original website; and although interactive and navigatable, it is not 100% functional.
 
 ## Running a Copy of the Website
 ### Method 1: Using This Repository
